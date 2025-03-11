@@ -17,7 +17,7 @@ const Header = () => {
           />
         </div>
         <div className='flex justify-center items-center'>
-          <h1 className='text-3xl font-sans'>COMPLEJO UNIVERSITARIO GRIDEHS</h1>
+          <h1 className='text-3xl font-sans font-black text-blue-950'>COMPLEJO UNIVERSITARIO GRIDEHS</h1>
         </div>
         <div>
           <img 

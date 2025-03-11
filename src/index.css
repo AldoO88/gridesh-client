@@ -3,13 +3,17 @@
 @layer components {
   .btn-nav{
     @apply
-    text-white
-    inline-flex
-    items-center
-    gap-x-1
-    text-base
-    leading-6
-    hover:text-gray-200
-    cursor-pointer
+      flex
+      text-white
+      items-center
+      justify-center
+      gap-x-1
+      text-base
+      leading-6
+      hover:text-gray-200
+      hover:bg-orange-700
+      cursor-pointer
+      w-28
+
   }
 }
